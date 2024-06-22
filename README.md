@@ -5,7 +5,7 @@
 
 ## My Discord
 
-[Click Here for my Coding Discord]
+![Click Here for my Coding Discord]()
 
 ## Stats
 
