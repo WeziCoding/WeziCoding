@@ -3,9 +3,9 @@
 * Just a guy that enjoys Coding :)
 
 
-## ESX Discord
+## My Discord
 
-[![Click Here for my Coding Discord](https://discordapp.com/api/guilds/192358910387159041/widget.png?style=banner2)](https://discord.gg/Da9EM2Dgf3)
+[![Click Here for my Coding Discord]()
 
 ## Stats
 
